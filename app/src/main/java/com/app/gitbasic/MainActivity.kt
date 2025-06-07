@@ -17,6 +17,6 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        //comment on feature_a
+        //new commit
     }
 }
